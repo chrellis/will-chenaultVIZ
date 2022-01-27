@@ -11,7 +11,7 @@ Because our data on ice is a measure of area, we thought a visualization where s
 
 ![66457422608__C227B771-7A96-484D-914A-621570D31DA3](https://user-images.githubusercontent.com/95489525/151276528-ba2c51df-8ec2-4e1a-8a24-dde6bc005cbb.png)
 
-We originally used the matplot library to make radar charts. PLT's long, complicated functions were much more inconvenient to use than plotly's concise tools. 
+We originally used the matplot library to make radar charts. PLT's long, complicated functions were much more inconvenient to use than plotly's concise tools. The visualizations were also wonky because our lists of data weren't lists of floats, but rather lists of strings.
 
 ## Our first misleading visualization: 
 <img width="992" alt="630misleading" src="https://user-images.githubusercontent.com/95489525/151275545-cee74662-24e0-42e1-8db2-483a4c9e5d91.png">
