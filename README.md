@@ -16,7 +16,11 @@ We originally used the matplot library to make radar charts. PLT's long, complic
 ## Our first misleading visualization: 
 <img width="992" alt="630misleading" src="https://user-images.githubusercontent.com/95489525/151275545-cee74662-24e0-42e1-8db2-483a4c9e5d91.png">
 
+## Our second truthful visualization:
+<img width="973" alt="630truthful" src="authentic_co2.svg">
 
+## Our second misleading visualization:
+<img width="973" alt="630misleading" src="fake_co2.svg">
 
 
 
