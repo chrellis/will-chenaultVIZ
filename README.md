@@ -25,5 +25,8 @@ I decided to do a simple line chart of the data from around 800,000 BCE to 2018 
 ## Our second misleading visualization:
 <img width="973" alt="630misleading" src="fake_co2.svg">
 
+Annotations:
+
+<img width="973" alt="630misleading" src="misleading_annotations.png">
 
 
