@@ -17,6 +17,9 @@ We originally used the matplot library to make radar charts. PLT's long, complic
 <img width="992" alt="630misleading" src="https://user-images.githubusercontent.com/95489525/151275545-cee74662-24e0-42e1-8db2-483a4c9e5d91.png">
 
 ## Our second truthful visualization:
+
+I decided to do a simple line chart of the data from around 800,000 BCE to 2018 CE. To emphasize how the recent CO2 concentration is significantly higher than the natural variation over the last hundreds of thousands of years, I marked a line at the greatest CO2 concentration before 1900, using `max(df['Concentration'][0:1769]`, and then compared this value to the 2018 CE value of 408.5 ppm, and writing with text that this is 36.8% higher. I played around with trying to make it interactive, but I decided that this was less effective. I also had to make sure that the bottom of the y axis is 0 so the proportions are accurate.
+
 <img width="973" alt="630truthful" src="authentic_co2.svg">
 
 ## Our second misleading visualization:
